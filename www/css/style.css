@@ -1,0 +1,40 @@
+/*la mise en forme ici*/
+
+a:hover
+{
+    text-decoration: none;
+}
+
+#add
+{
+    width: 75px;
+    height: 75px;
+    position: fixed;
+    top: 10%;
+    right: 20%;
+}
+
+#add:hover
+{
+    color: chartreuse;
+}
+
+h1
+{
+    font-size: 4vw;
+}
+i
+{
+    margin-top: 6px;
+}
+
+#listInteret
+{
+    list-style-type: square;
+}
+
+img
+{
+    width:225px;
+    height:225px;
+}
